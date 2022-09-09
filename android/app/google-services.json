@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407152336334",
+    "project_id": "sovtech-9f7ef",
+    "storage_bucket": "sovtech-9f7ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407152336334:android:4a7282147b7f65ea365f9f",
+        "android_client_info": {
+          "package_name": "com.example.sovtech_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407152336334-9983h4qqtglduptkpdhnlljl9ih96d36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sovtech_ecommerce",
+            "certificate_hash": "928a232b67efa434155019bdf29b52627eece71f"
+          }
+        },
+        {
+          "client_id": "407152336334-hmp1jd0dm14efn2aoau088mdclh34q8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVGqw_BsR_q4z5SeqAfrRRQWwm8S25kXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407152336334-hmp1jd0dm14efn2aoau088mdclh34q8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
